@@ -5,7 +5,6 @@ permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2023
 venue: 'Brain and Language'
-paperurl: ''
 citation: 'Lau, E., Socolof, M., Clarke, N., Asatiani, R., Polinsky, M. (2023). &quot;A subject relative clause preference in a split-ergative language: ERP evidence from Georgian.&quot; <i>Brain and Language</i>. 236.'
 ---
 
