@@ -7,5 +7,5 @@ date: Submitted
 %venue: 'Journal 1'
 %slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 %paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Socolof, M, O'Donnell, T., and Wagner, M. (Submitted). &quot;Paper The idiom processing advantage is explained by surprisal.&quot;.'
+citation: 'Socolof, M, O\'Donnell, T., and Wagner, M. (Submitted). &quot;Paper The idiom processing advantage is explained by surprisal.&quot;.'
 ---
