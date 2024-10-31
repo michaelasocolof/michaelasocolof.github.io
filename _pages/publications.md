@@ -5,9 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-Boles, C. and Socolof, M. (In prep) **Conditionals in Igala.**
+Boles, C. and Socolof, M. (Submitted) **Conditionals in Igala.**
 
-Socolof, M., O'Donnell, T., and Wagner, M. (Submitted) **The idiom processing advantage is explained by surprisal.**
+Socolof, M., O'Donnell, T., and Wagner, M. (In revision) **The idiom processing advantage is explained by surprisal.**
 
 Lau, E., Socolof, M., Clarke, N. Asatiani, R, and Polinsky, M. (2023) **A subject relative clause preference in a split-ergative language: ERP
 evidence from Georgian.** *Brain and Language.* <a class="page-link" href="/files/georgian-erp.pdf" target="_blank">pdf</a>
