@@ -12,7 +12,7 @@ Socolof, M., O'Donnell, T., and Wagner, M. (In revision) **The idiom processing 
 Lau, E., Socolof, M., Clarke, N. Asatiani, R, and Polinsky, M. (2023) **A subject relative clause preference in a split-ergative language: ERP
 evidence from Georgian.** *Brain and Language.* <a class="page-link" href="/files/georgian-erp.pdf" target="_blank">pdf</a>
 
-Socolof, M., Hoover, J., Futrell, R., Sordoni, A., and O’Donnell, T. (2022) **Measuring morphological fusion using partial information decomposition.** *Proceedings of COLING.* <a class="page-link" href="/files/morphological-fusion.pdf" target="_blank">pdf</a>
+Socolof, M., Hoover, J., Futrell, R., Sordoni, A., and O’Donnell, T. (2022) **Measuring morphological fusion using Partial Information Decomposition.** *Proceedings of COLING.* <a class="page-link" href="/files/morphological-fusion.pdf" target="_blank">pdf</a>
 
 Lau, E., Polinsky, M., Clarke, N., and Socolof, M. (2022) **On the representation of morphosyntactic predictions: ERP evidence from Georgian.** *Issues in Kartvelian Studies.* <a class="page-link" href="/files/georgian-morphosyntactic.pdf" target="_blank">pdf</a>
 
