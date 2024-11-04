@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Socolof, M. (In progress) **Constraining Agree: A unified account of basic and inverse agreement in Georgian**
+Socolof, M. (In progress) **Constraining Agree: A unified account of basic and inverse agreement in Georgian** <a class="page-link" href="/files/georgian_agreement.pdf" target="_blank">pdf</a>
 
 Boles, C. and Socolof, M. (Submitted) **Conditionals in Igala.**
 
