@@ -5,6 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
+Socolof, M. (In progress) **Constraining Agree: A unified account of basic and inverse agreement in Georgian**
+
 Boles, C. and Socolof, M. (Submitted) **Conditionals in Igala.**
 
 Socolof, M., O'Donnell, T., and Wagner, M. (In revision) **The idiom processing advantage is explained by surprisal.**
